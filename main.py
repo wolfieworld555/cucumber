@@ -46,6 +46,8 @@ def remove_product(product):
         print('Produkts nav grozā :(')
 
 
+print('welcome to our shop!')
+
 while True:
 
     print("Actions: 'add', 'remove', 'stop' ")
